@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+swust.qiy.microservice.sdk.mq.config.MqAutoConfiguration
+
+

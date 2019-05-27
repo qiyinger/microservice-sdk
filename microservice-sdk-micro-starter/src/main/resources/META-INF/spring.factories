@@ -1,0 +1,6 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+swust.qiy.microservice.sdk.config.MiceroAutoConfiguration,\
+swust.qiy.microservice.sdk.config.ApolloClientAutoConfiguration
+
+
+
